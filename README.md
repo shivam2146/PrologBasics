@@ -1,0 +1,2 @@
+# PrologBasics
+Learning prolog basics
